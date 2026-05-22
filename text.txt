@@ -2,24 +2,26 @@
 
 git rebase trying
 git rebase trying
-git  trying
+
+Trying to to merge confict.
+
+git rebase trying
+
 
 Navbar feature
 Navbar feature
-Navbar 
 Navbar feature
+
 
 
 
 login form
 
+login form
+
 
 chatbot
+chatbot : like chatgpt
 
 
-AI
-AI
-AI
-AI
-AI
 AI
