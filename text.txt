@@ -2,13 +2,11 @@
 
 git rebase trying
 git rebase trying
- trying
-git rebase trying
 git  trying
 
 Navbar feature
 Navbar feature
-Navbar feature
+Navbar 
 Navbar feature
 
 
@@ -17,6 +15,11 @@ login form
 
 
 chatbot
-chatbot
-chatbot
-chatbot
+
+
+AI
+AI
+AI
+AI
+AI
+AI
