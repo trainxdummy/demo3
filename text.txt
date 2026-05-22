@@ -1,24 +1,25 @@
-this is line one
 
-this is line two
 
 git rebase trying
 git rebase trying
-git rebase trying
-git rebase trying
-git rebase trying
+git  trying
 
 Navbar feature
 Navbar feature
-Navbar feature
-Navbar feature
-Navbar feature
+Navbar 
 Navbar feature
 
-login form
-login form
-login form
-login form
-login form
+
+
 login form
 
+
+chatbot
+
+
+AI
+AI
+AI
+AI
+AI
+AI
